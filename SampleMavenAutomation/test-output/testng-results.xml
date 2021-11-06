@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test cases" duration-ms="167" started-at="2021-11-06T14:34:12 IST" finished-at="2021-11-06T14:34:13 IST">
+    <groups>
+    </groups>
+    <test name="Users and Products Test cases" duration-ms="167" started-at="2021-11-06T14:34:12 IST" finished-at="2021-11-06T14:34:13 IST">
+      <class name="com.sgtesting.tests.users.Users">
+        <test-method status="PASS" signature="usersTestCase1()[pri:0, instance:com.sgtesting.tests.users.Users@614ddd49]" name="usersTestCase1" duration-ms="29" started-at="2021-11-06T14:34:12 IST" finished-at="2021-11-06T14:34:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usersTestCase1 -->
+        <test-method status="PASS" signature="usersTestCase2()[pri:0, instance:com.sgtesting.tests.users.Users@614ddd49]" name="usersTestCase2" duration-ms="3" started-at="2021-11-06T14:34:12 IST" finished-at="2021-11-06T14:34:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usersTestCase2 -->
+      </class> <!-- com.sgtesting.tests.users.Users -->
+      <class name="com.sgtesting.tests.products.Products">
+        <test-method status="PASS" signature="productsTestCase1()[pri:0, instance:com.sgtesting.tests.products.Products@4e7dc304]" name="productsTestCase1" duration-ms="5" started-at="2021-11-06T14:34:12 IST" finished-at="2021-11-06T14:34:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productsTestCase1 -->
+        <test-method status="PASS" signature="productsTestCase2()[pri:0, instance:com.sgtesting.tests.products.Products@4e7dc304]" name="productsTestCase2" duration-ms="2" started-at="2021-11-06T14:34:13 IST" finished-at="2021-11-06T14:34:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productsTestCase2 -->
+      </class> <!-- com.sgtesting.tests.products.Products -->
+    </test> <!-- Users and Products Test cases -->
+  </suite> <!-- Test cases -->
+</testng-results>
