@@ -1,0 +1,94 @@
+2021-10-27 14:18:04 INFO  testngscenarios:22 - The Chrome Browser has launched Succesfully!!!!
+2021-10-27 14:18:10 INFO  testngscenarios:36 - The URL of the Application has navigated Succesfully!!!!
+2021-10-27 14:18:15 INFO  testngscenarios:65 - The Application has logged in Succesfully!!!!
+2021-10-27 14:18:21 INFO  testngscenarios:79 - The Fly out window has minimized Succesfully!!!!
+2021-10-27 14:18:31 INFO  testngscenarios:117 - The Application has created the User Succesfully!!!!
+2021-10-27 14:18:40 INFO  testngscenarios:137 - The Application has modified the User Succesfully!!!!
+2021-10-27 14:18:46 INFO  testngscenarios:157 - The Application has deleted the User Succesfully!!!!
+2021-10-27 14:18:49 INFO  testngscenarios:93 - The Application has logged out Succesfully!!!!
+2021-10-27 14:18:49 INFO  testngscenarios:49 - The Application has closed Succesfully!!!!
+2021-10-27 14:19:17 INFO  testngscenarios:21 - The Chrome Browser has launched Succesfully!!!!
+2021-10-27 14:19:23 INFO  testngscenarios:35 - The URL of the Application has navigated Succesfully!!!!
+2021-10-27 14:19:27 INFO  testngscenarios:64 - The Application has logged in Succesfully!!!!
+2021-10-27 14:19:31 INFO  testngscenarios:78 - The Fly out window has minimized Succesfully!!!!
+2021-10-27 14:19:38 INFO  testngscenarios:111 - The Application has created the customer Succesfully!!!!
+2021-10-27 14:19:51 INFO  testngscenarios:131 - The Application has deleted the customer Succesfully!!!!
+2021-10-27 14:19:54 INFO  testngscenarios:92 - The Application has logged out Succesfully!!!!
+2021-10-27 14:19:54 INFO  testngscenarios:48 - The Application has closed Succesfully!!!!
+2021-10-27 14:29:10 INFO  testngscenarios:21 - The Chrome Browser has launched Succesfully!!!!
+2021-10-27 14:29:17 INFO  testngscenarios:35 - The URL of the Application has navigated Succesfully!!!!
+2021-10-27 14:29:21 INFO  testngscenarios:64 - The Application has logged in Succesfully!!!!
+2021-10-27 14:29:26 INFO  testngscenarios:78 - The Fly out window has minimized Succesfully!!!!
+2021-10-27 14:29:33 INFO  testngscenarios:112 - The Application has created the customer Succesfully!!!!
+2021-10-27 14:29:40 INFO  testngscenarios:132 - The Application has modified the customer Succesfully!!!!
+2021-10-27 14:29:53 INFO  testngscenarios:152 - The Application has deleted the customer Succesfully!!!!
+2021-10-27 14:29:55 INFO  testngscenarios:92 - The Application has logged out Succesfully!!!!
+2021-10-27 14:29:55 INFO  testngscenarios:48 - The Application has closed Succesfully!!!!
+2021-10-27 14:30:17 INFO  testngscenarios:21 - The Chrome Browser has launched Succesfully!!!!
+2021-10-27 14:30:24 INFO  testngscenarios:35 - The URL of the Application has navigated Succesfully!!!!
+2021-10-27 14:30:28 INFO  testngscenarios:64 - The Application has logged in Succesfully!!!!
+2021-10-27 14:30:33 INFO  testngscenarios:78 - The Fly out window has minimized Succesfully!!!!
+2021-10-27 14:30:40 INFO  testngscenarios:112 - The Application has created the customer Succesfully!!!!
+2021-10-27 14:30:47 INFO  testngscenarios:132 - The Application has modified the customer Succesfully!!!!
+2021-10-27 14:31:00 INFO  testngscenarios:152 - The Application has deleted the customer Succesfully!!!!
+2021-10-27 14:31:02 INFO  testngscenarios:92 - The Application has logged out Succesfully!!!!
+2021-10-27 14:31:02 INFO  testngscenarios:48 - The Application has closed Succesfully!!!!
+2021-10-27 14:43:24 INFO  testngscenarios:20 - The Chrome Browser has launched Succesfully!!!!
+2021-10-27 14:43:31 INFO  testngscenarios:34 - The URL of the Application has navigated Succesfully!!!!
+2021-10-27 14:43:35 INFO  testngscenarios:63 - The Application has logged in Succesfully!!!!
+2021-10-27 14:43:38 INFO  testngscenarios:77 - The Fly out window has minimized Succesfully!!!!
+2021-10-27 14:43:45 INFO  testngscenarios:111 - The Application has created the customer Succesfully!!!!
+2021-10-27 14:43:51 INFO  testngscenarios:130 - The Application has created the project Succesfully!!!!
+2021-10-27 14:43:58 INFO  testngscenarios:149 - The Application has modified the project Succesfully!!!!
+2021-10-27 14:44:09 INFO  testngscenarios:173 - The Application has deleted the project Succesfully!!!!
+2021-10-27 14:44:21 INFO  testngscenarios:193 - The Application has deleted the customer Succesfully!!!!
+2021-10-27 14:44:24 INFO  testngscenarios:91 - The Application has logged out Succesfully!!!!
+2021-10-27 14:44:24 INFO  testngscenarios:47 - The Application has closed Succesfully!!!!
+2021-10-27 14:52:39 INFO  testngscenarios:21 - The Chrome Browser has launched Succesfully!!!!
+2021-10-27 14:52:43 INFO  testngscenarios:35 - The URL of the Application has navigated Succesfully!!!!
+2021-10-27 14:52:47 INFO  testngscenarios:64 - The Application has logged in Succesfully!!!!
+2021-10-27 14:52:52 INFO  testngscenarios:78 - The Fly out window has minimized Succesfully!!!!
+2021-10-27 14:53:00 INFO  testngscenarios:112 - The Application has created the customer Succesfully!!!!
+2021-10-27 14:53:06 INFO  testngscenarios:131 - The Application has created the project Succesfully!!!!
+2021-10-27 14:53:11 INFO  testngscenarios:151 - The Application has created the task Succesfully!!!!
+2021-10-27 14:53:20 INFO  testngscenarios:173 - The Application has deleted the task Succesfully!!!!
+2021-10-27 14:53:30 INFO  testngscenarios:197 - The Application has deleted the project Succesfully!!!!
+2021-10-27 14:53:43 INFO  testngscenarios:217 - The Application has deleted the customer Succesfully!!!!
+2021-10-27 14:53:46 INFO  testngscenarios:92 - The Application has logged out Succesfully!!!!
+2021-10-27 14:53:46 INFO  testngscenarios:48 - The Application has closed Succesfully!!!!
+2021-10-27 17:09:41 INFO  testngscenarios:21 - Chrome browser launched successfully
+2021-10-27 17:09:46 INFO  testngscenarios:37 - Actitime URL launched successfully
+2021-10-27 17:09:46 ERROR testngscenarios:88 - There is an exception araised during the execution of the minimizeFlyoutWindow Method , Exception :org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#gettingStartedShortcutsPanelId"}
+  (Session info: chrome=95.0.4638.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-U08G1R0', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.54, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:58150}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: eaa97ac13c183acd5c4527fe774835e0
+*** Element info: {Using=id, value=gettingStartedShortcutsPanelId}
+2021-10-27 17:09:48 INFO  testngscenarios:170 - Actitime Chrome Browser closed successfully
+2021-10-27 17:10:31 INFO  testngscenarios:21 - Chrome browser launched successfully
+2021-10-27 17:10:34 INFO  testngscenarios:37 - Actitime URL launched successfully
+2021-10-27 17:10:34 ERROR testngscenarios:88 - There is an exception araised during the execution of the minimizeFlyoutWindow Method , Exception :org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#gettingStartedShortcutsPanelId"}
+  (Session info: chrome=95.0.4638.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-U08G1R0', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.54, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:64837}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 229e78c3802fcd09a3f1395629116843
+*** Element info: {Using=id, value=gettingStartedShortcutsPanelId}
+2021-10-27 17:10:36 INFO  testngscenarios:170 - Actitime Chrome Browser closed successfully
+2021-10-27 17:36:59 INFO  testngscenarios:21 - Chrome browser launched successfully
+2021-10-27 17:37:05 INFO  testngscenarios:37 - Actitime URL launched successfully
+2021-10-27 17:37:05 ERROR testngscenarios:87 - There is an exception araised during the execution of the minimizeFlyoutWindow Method , Exception :org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#gettingStartedShortcutsPanelId"}
+  (Session info: chrome=95.0.4638.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-U08G1R0', ip: '192.168.93.71', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.54, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59854}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d629af4a053fe2614fb3e618b980cd24
+*** Element info: {Using=id, value=gettingStartedShortcutsPanelId}
+2021-10-27 17:37:07 INFO  testngscenarios:169 - Actitime Chrome Browser closed successfully

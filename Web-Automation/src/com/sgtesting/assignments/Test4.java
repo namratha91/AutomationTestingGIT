@@ -70,7 +70,7 @@ public class Test4 {
 			oBrowser.findElement(By.xpath("//*[@id=\'cpTreeBlock\']/div[2]/div[1]/div[2]/div/div[2]")).click();
 			oBrowser.findElement(By.xpath("/html/body/div[14]/div[1]")).click();
 			Thread.sleep(2000);
-			oBrowser.findElement(By.id("customerLightBox_nameField")).sendKeys("TestCustomer");
+			oBrowser.findElement(By.id("customerLightBox_nameField")).sendKeys("DemoCustomer");
 			Thread.sleep(2000);
 			oBrowser.findElement(By.xpath("//*[@id=\'customerLightBox_commitBtn\']/div/span")).click();
 			Thread.sleep(2000);
@@ -84,14 +84,14 @@ public class Test4 {
 	{
 		try
 		{
-			oBrowser.findElement(By.xpath("//*[@id=\'cpTreeBlock\']/div[2]/div[2]/div/div[2]/div/div[1]/div[2]/div[2]/div[4]")).click();
-			Thread.sleep(2000);
+			oBrowser.findElement(By.xpath("//*[@id='cpTreeBlock']/div[2]/div[2]/div/div[2]/div/div[1]/div[2]/div[2]/div[4]")).click();
+			Thread.sleep(4000);
+
+			oBrowser.findElement(By.xpath("//*[@id=\'taskListBlock\']/div[2]/div[1]/div[3]/div/div[1]")).sendKeys("nnnn");
+			Thread.sleep(4000);
 			
-			oBrowser.findElement(By.xpath("//*[@id=\'taskListBlock\']/div[2]/div[2]/div[1]/div[3]/div[2]/div/div[1]/textarea\r\n")).sendKeys("Modified customer by adding description");
-			Thread.sleep(2000);
-						
-			oBrowser.findElement(By.xpath("//*[@id=\'taskListBlock\']/div[2]/div[1]/div[1]")).click();
-			Thread.sleep(2000);				
+			oBrowser.findElement(By.xpath("//*[@id='taskListBlock']/div[2]/div[1]/div[1]")).click();
+			Thread.sleep(4000);				
 		}catch(Exception e)
 		{
 			e.printStackTrace();
@@ -116,7 +116,7 @@ public class Test4 {
 	}
 
 	static void logout() {
-     
+
 		try
 		{
 			oBrowser.findElement(By.linkText("Logout")).click();
