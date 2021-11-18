@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestScript">
+  <test name="testng tests">
+     <classes>
+        <class name="com.sgtesting.testngscenarios.CreateUser"></class>
+         <class name="com.sgtesting.testngscenarios.CreateCustomer"></class>
+          <class name="com.sgtesting.testngscenarios.CreateProject"></class>
+          <class name="com.sgtesting.testngscenarios.CreateTask"></class>
+          <class name="com.sgtesting.testngscenarios.Advanced_Scenario1"></class>
+     </classes>
+  </test>
+</suite>
